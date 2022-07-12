@@ -1,0 +1,25 @@
+//INSTALAR DEPENDENCIAS DE REACT
+npm install react-scripts --save
+
+//INSTALAR AXIOS
+npm i axios
+
+//para instalar version 17 de react
+npm install react@17.0.2 react-dom@17.0.2
+
+//INSTALAR REDUX
+npm i react-redux 
+npm i --save-dev redux-devtools-extension
+
+//INSTALAR THANK
+npm i redux-thunk
+
+//INSTALAR REACT ROUTER DOM
+npm i react-router-dom
+
+//INSTALAR REACT HOOK FORM
+npm i react-hook-form
+
+
+
+
